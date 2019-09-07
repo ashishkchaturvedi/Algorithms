@@ -1,4 +1,4 @@
-package algo.linearsearch;
+package algo.searching;
 
 public class LinearSearch {
 	

@@ -1,4 +1,4 @@
-package algo.binarysearch;
+package algo.searching;
 
 public class BinarySearch {
 	
